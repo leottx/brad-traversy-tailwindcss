@@ -9,7 +9,7 @@ Taiwind flex, grid, borders, color, sizes, filters, backgrounds, shadows, typogr
 
 - [ ] Módulo 01: Introduction
   - Esse módulo foi pulado, pois traz apenas direcionamentos sobre como estudar o material, setup necessário e tópicos abordados ao longo do curso.
-- [ ] Módulo 02: Tailwind Fundamentals - Part 1
+- [x] [Módulo 02: Tailwind Fundamentals - Part 1](https://github.com/leottx/brad-traversy-tailwindcss/tree/main/02-module/tailwind-exercises)
 - [ ] Módulo 03: Tailwind Fundamentals - Part 2
 - [ ] Módulo 04: A Better Development Environment
 - [ ] Módulo 05: Tailwind CSS Mini-Projects
